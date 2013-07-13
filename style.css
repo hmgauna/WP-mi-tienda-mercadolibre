@@ -1,0 +1,8 @@
+#mi-tienda-ml {padding:0;overflow:hidden;list-style:none;}
+#mi-tienda-ml li.mtml-single{width:30%;height:270px;padding:1%;margin-bottom:5%;float:left;position:relative;}
+#mi-tienda-ml li.mtml-single a{display:block;overflow:hidden;height:140px;}
+#mi-tienda-ml li.mtml-single img{max-width:100%}
+#mi-tienda-ml li.mtml-single h3{line-height:1em;padding:0;margin:0;}
+#mi-tienda-ml li.mtml-single p{margin:0;padding:0 0 1em 0;line-height:1em;font-size:0.85em;}
+#mi-tienda-ml li.mtml-single .boton{margin:0;padding:0;line-height:1em;position:absolute;bottom:0;height:auto;}
+#mi-tienda-ml li.mtml-single .mtml-precio{position:absolute;padding:0.1em;bottom:0;right:5%;border:1px dashed #666}
